@@ -1,0 +1,2 @@
+# INotifyPropertyChanged
+class with INotifyPropertyChanged implementation
